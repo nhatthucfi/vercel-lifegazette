@@ -23,9 +23,9 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://lifegazette.info/category/adsterra-earning/" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Here you can find how to earn money from Adsterra .</p>
+          <a href="https://lifegazette.info/topics/baby/" className={styles.card}>
+            <h2>BABY &rarr;</h2>
+            <p> Here you can find other domestic and international news about babies.</p>
           </a>
 
           <a href="https://lifegazette.info/category/adsense-approval/" className={styles.card}>
