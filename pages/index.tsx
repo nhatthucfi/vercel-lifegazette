@@ -17,11 +17,6 @@ const Home: NextPage = () => {
           Welcome to Vercel By <a href="https://lifegazette.info">lifegazette</a>
         </h1>
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.tsx</code>
-        </p>
-
         <div className={styles.grid}>
           <a href="https://lifegazette.info/topics/baby/" className={styles.card}>
             <h2> Baby &rarr;</h2>
