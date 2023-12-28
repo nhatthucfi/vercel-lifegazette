@@ -55,7 +55,7 @@ const Home: NextPage = () => {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+            <Image src="https://lifegazette.info/wp-content/uploads/2023/09/cropped-lifegazette-logo-1.png" alt="Vercel Logo" width={72} height={16} />
           </span>
         </a>
       </footer>
