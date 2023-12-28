@@ -42,7 +42,7 @@ const Home: NextPage = () => {
           </a>
 
           <a
-            href="https://newstick.us"
+            href="https://lifegazette.info"
             className={styles.card}
           >
             <h2>News &rarr;</h2>
