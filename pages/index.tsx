@@ -24,13 +24,13 @@ const Home: NextPage = () => {
 
         <div className={styles.grid}>
           <a href="https://lifegazette.info/topics/baby/" className={styles.card}>
-            <h2> BABY &rarr;</h2>
+            <h2> Baby &rarr;</h2>
             <p> Here you can find other domestic and international news about babies.</p>
           </a>
 
-          <a href="https://lifegazette.info/category/adsense-approval/" className={styles.card}>
-            <h2>Master In AdSense Approval &rarr;</h2>
-            <p>Here you can find the of how you become master in AdSense approval!</p>
+          <a href="https://lifegazette.info/topics/pet/" className={styles.card}>
+            <h2> Dog &rarr;</h2>
+            <p> Here you can find other national and international news about dogs </p>
           </a>
 
           <a
