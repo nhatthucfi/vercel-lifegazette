@@ -24,7 +24,7 @@ const Home: NextPage = () => {
 
         <div className={styles.grid}>
           <a href="https://lifegazette.info/topics/baby/" className={styles.card}>
-            <h2>BABY &rarr;</h2>
+            <h2> BABY &rarr;</h2>
             <p> Here you can find other domestic and international news about babies.</p>
           </a>
 
