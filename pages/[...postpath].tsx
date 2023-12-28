@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.toprevenuegate.com/da0qrkpq?key=8073db614ce6e51553e8ebbaa1389960/`
+					endpoint.replace(/(\/graphql\/)/, '/') + encodeURI(path as string)
 				}`,
 			},
 		};
