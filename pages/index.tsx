@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Vercel Trick By <a href="https://lifegazette.info">Alcash Zone</a>
+          Welcome to Vercel Trick By <a href="https://lifegazette.info">lifegazette</a>
         </h1>
 
         <p className={styles.description}>
